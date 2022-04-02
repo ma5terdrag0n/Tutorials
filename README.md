@@ -18,6 +18,6 @@ It's just fun and nothing else. 😛 Jokes apart, following are the real benefit
 All these tutorials are explained in simple language on my [tech blog](https://theweekendbits.wordpress.com/). Following instructions will guide you to start building your own micro-services from scratch.
 
 ### User Service
-**Objective** - First, we will create a simple user service which can help us register and authenticate a user. Overall goal 
+**Objective** - First, we will create a simple user service which can help us register and authenticate a user.
 1. **Simple Java based REST API using Springboot** - [Blog](https://theweekendbits.wordpress.com/2022/03/27/tutorial-rest-api-in-java-using-springboot/)
 2. **Connecting the springboot api with Redis db** - [Blog](https://theweekendbits.wordpress.com/2022/03/27/tutorial-rest-api-in-java-using-springboot/), [Code](https://github.com/ma5terdrag0n/Tutorials/tree/main/REDIS_AS_USER_DB/demo/demo)
