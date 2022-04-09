@@ -1,7 +1,7 @@
 {
   "singleServerConfig": {
-    "password": "s6Kp7TsEQQftYysspJ9bsc2383fXPehO",
-    "address": "redis://redis-13888.c263.us-east-1-2.ec2.cloud.redislabs.com:13888"
+    "password": "<Add Password>",
+    "address": "<Add db address>"
   },
   "threads": 0,
   "nettyThreads": 0,
